@@ -1,0 +1,162 @@
+body{ margin: 0;
+      padding: 0;
+}
+
+html {
+  scroll-behavior: smooth
+}
+.header{
+  width : 1920px;
+  height: auto;
+  border: 1px solid white;
+  margin: 0 auto;
+}
+
+.nav{
+  position: fixed;
+}
+
+.top{
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    margin-top:650px;
+    margin-left: 1750px;
+}
+
+.navbar{
+  position: fixed;
+  background-color: white;
+}
+
+.logo{
+  width : auto;
+  height: 60px;
+  background-image: url("img/logo.jpg");
+}
+
+.boxs{
+  width: 200px;
+}
+
+.box1{
+  width: 60px;
+}
+
+.box2{
+  width: 30px;
+}
+
+.box3{
+  height: 120px;
+  margin:0 auto;
+}
+
+.nav{
+  width: auto;
+  height: 60px;
+  border: 1px solid white;
+  margin-top: 30px;
+  position: fixed;
+}
+
+.nav-link{
+  font-size: 23px;
+}
+
+.kr{
+  width: 60px;
+  height: 60px;
+}
+
+.slogan{
+  width: auto;
+  height: 760px;
+  border: 1px solid white;
+  margin-bottom: 120px;
+  background-image: url("img/w_main_k.jpg");
+}
+
+.form{
+  width: 310px;
+  height: 65px;
+  margin-left: 180px;
+  margin-top: 420px;
+}
+
+.keyword{
+  width: auto;
+  height: 742px;
+  border: 1px solid white;
+  text-align: center;
+  background-image: url("img/w_key_k.jpg");
+}
+
+.intro{
+    width: auto;
+    height: 836px;
+    border: 1px solid white;
+    background-image: url("img/w_com_k.jpg");
+}
+
+.Comment{
+  width: auto;
+  height: 264px;
+  border: 1px solid white;
+  background-image: url("img/w_coment_k.jpg");
+}
+
+.product{
+  width: auto;
+  height: 1268px;
+  border: 1px solid white;
+  background-image: url("img/w_pro_k.jpg");
+}
+
+.pro_b{
+  width: 491.8232px;
+  height: 744px;
+  border: 1px solid white;
+  margin-top: 265.487px;
+  margin-left: 348.1854px;
+  float: left;
+}
+
+.pro_b2{
+  width: 491.8232px;
+  height: 744px;
+  border: 1px solid white;
+  margin-top: 265.487px;
+  margin-left: 242.1515px;
+  float: left;
+}
+
+.email{
+    width: auto;
+    height: 408px;
+    border: 1px solid white;
+    background-image: url("img/w_em_k.jpg");
+}
+
+.send{
+  width: 900px;
+  height: 67px;
+  margin-left: 510px;
+  margin-top: 200px;
+  text-align: center;
+  color: white;
+}
+
+.sns{
+    width: 137px;
+    height: 46px;
+    margin-top: 390px;
+    margin-left: 892px;
+}
+
+.footer{
+  width: auto;
+  height: 530px;
+  border: 1px solid white;
+  background-image: url("img/w_foot.png");
+}
